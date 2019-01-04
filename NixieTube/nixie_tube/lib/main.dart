@@ -93,7 +93,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             SizedBox(
-              width: 80,
+              width: 160,
               height: 160,
               child: Container(
                 color: Colors.yellow,
